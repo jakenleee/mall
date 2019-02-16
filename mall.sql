@@ -152,4 +152,4 @@ CREATE TABLE `user` (
 -- ----------------------------
 INSERT INTO `user` VALUES ('1', 'wew6698888', '89****96@qq.com', 'skywalker', '123456', '17688970006', 'hfb');
 INSERT INTO `user` VALUES ('2', '1235645645646', '89***96@qq.com', 'hfb', '123456', '18645954845', 'jesse');
-INSERT INTO `user` VALUES ('3', '江西省 吉安市 泰和县', '8976677657@qq.com', '曾涛涛', '123456', '12345678941', 'ztt');
+INSERT INTO `user` VALUES ('3', '广东省 广州市 番禺区', '930866362@qq.com', '李泽健', '123456', '12345678941', 'lzj');
